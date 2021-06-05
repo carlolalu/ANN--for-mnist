@@ -1,0 +1,241 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 65, 25, 10]
+eps: 0.0065
+Mid_epochs: 33000
+Initial evaluation: (0.11235, array([1.38641678]))
+Middle evaluation: (0.7736666666666666, array([0.27433625]))
+Final evaluation: (0.8010833333333334, array([0.24500141]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 65, 25, 10]
+eps: 0.0065
+Mid_epochs: 36000
+Initial evaluation: (0.09736666666666667, array([1.14348538]))
+Middle evaluation: (0.78995, array([0.24573105]))
+Final evaluation: (0.83765, array([0.21831816]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 65, 25, 10]
+eps: 0.0065
+Mid_epochs: 42000
+Initial evaluation: (0.09751666666666667, array([1.48910091]))
+Middle evaluation: (0.7447833333333334, array([0.22783712]))
+Final evaluation: (0.7913166666666667, array([0.20018248]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 65, 25, 10]
+eps: 0.01
+Mid_epochs: 54000
+Initial evaluation: (0.09871666666666666, array([1.29625703]))
+Middle evaluation: (0.7743, array([0.20949874]))
+Final evaluation: (0.7812833333333333, array([0.19760776]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 65, 20, 10]
+eps: 0.01
+Mid_epochs: 54000
+Initial evaluation: (0.10441666666666667, array([1.22888937]))
+Middle evaluation: (0.7908333333333334, array([0.20264774]))
+Final evaluation: (0.81055, array([0.18912423]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 65, 25, 10]
+eps: 0.01
+Mid_epochs: 54000
+Initial evaluation: (0.09736666666666667, array([1.5846145]))
+Middle evaluation: (0.79955, array([0.19708056]))
+Final evaluation: (0.8228166666666666, array([0.17978703]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 65, 25, 10]
+eps: 0.01
+Mid_epochs: 42000
+Initial evaluation: (0.09871666666666666, array([1.55145141]))
+Middle evaluation: (0.7846833333333333, array([0.2191135]))
+Final evaluation: (0.8231166666666667, array([0.19138362]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 55, 25, 10]
+eps: 0.01
+Initial evaluation: (0.09333333333333334, array([1.85128733]))
+Final evaluation: (0.7806166666666666, array([0.21359963]))
+Epochs: 60000
+Architecture: [784, 75, 25, 10]
+eps: 0.01
+Initial evaluation: (0.10306666666666667, array([1.16919459]))
+Final evaluation: (0.8091333333333334, array([0.18885524]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 115, 40, 10]
+eps: 0.01
+Initial evaluation: (0.0993, array([1.68423484]))
+Final evaluation: (0.8520666666666666, array([0.15742978]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 135, 30, 10]
+eps: 0.01
+Initial evaluation: (0.09035, array([1.38070583]))
+Final evaluation: (0.85765, array([0.15474543]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 135, 35, 10]
+eps: 0.01
+Initial evaluation: (0.0993, array([1.36042159]))
+Final evaluation: (0.8644666666666667, array([0.1376983]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 135, 40, 10]
+eps: 0.01
+Initial evaluation: (0.09916666666666667, array([1.53534362]))
+Final evaluation: (0.84285, array([0.15095667]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 75, 30, 10]
+eps: 0.01
+Initial evaluation: (0.09915, array([1.2938701]))
+Final evaluation: (0.81255, array([0.18090115]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 75, 35, 10]
+eps: 0.01
+Initial evaluation: (0.09035, array([0.95298392]))
+Final evaluation: (0.83395, array([0.16255976]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 75, 40, 10]
+eps: 0.01
+Initial evaluation: (0.11236666666666667, array([1.47847216]))
+Final evaluation: (0.8121666666666667, array([0.18547284]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 95, 15, 10]
+eps: 0.01
+Initial evaluation: (0.10438333333333333, array([1.34696763]))
+Final evaluation: (0.8336333333333333, array([0.17296449]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 95, 20, 10]
+eps: 0.01
+Initial evaluation: (0.11125, array([1.38350414]))
+Final evaluation: (0.8400833333333333, array([0.17229356]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 95, 25, 10]
+eps: 0.01
+Initial evaluation: (0.09143333333333334, array([2.23354107]))
+Final evaluation: (0.8403666666666667, array([0.16612934]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 95, 30, 10]
+eps: 0.01
+Initial evaluation: (0.0961, array([1.55064495]))
+Final evaluation: (0.83435, array([0.16855001]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 95, 35, 10]
+eps: 0.01
+Initial evaluation: (0.09751666666666667, array([1.87606516]))
+Final evaluation: (0.8021166666666667, array([0.18669958]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 95, 40, 10]
+eps: 0.01
+Initial evaluation: (0.0993, array([1.69134668]))
+Final evaluation: (0.8314833333333334, array([0.1710097]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 55, 30, 10]
+eps: 0.01
+Initial evaluation: (0.09736666666666667, array([1.1106512]))
+Final evaluation: (0.7942, array([0.19529539]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 65, 30, 10]
+eps: 0.01
+Initial evaluation: (0.10596666666666667, array([1.3632737]))
+Final evaluation: (0.8237166666666667, array([0.17797367]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 65, 20, 10]
+eps: 0.01
+Initial evaluation: (0.10435, array([1.47496081]))
+Final evaluation: (0.80585, array([0.19001166]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 65, 25, 10]
+eps: 0.01
+Initial evaluation: (0.09751666666666667, array([1.62303637]))
+Final evaluation: (0.8089666666666666, array([0.17310621]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 65, 30, 10]
+eps: 0.01
+Initial evaluation: (0.09915, array([2.06233291]))
+Final evaluation: (0.79445, array([0.18998739]))
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 60, 20, 10]
+eps: 0.007666666666666665
+Initial evaluation: (0.1044, 7352013)
+Final evaluation: (0.80175, 8145753)
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 60, 20, 10]
+eps: 0.008777777777777777
+Initial evaluation: (0.10218333333333333, 7400587)
+Final evaluation: (0.8144, 8130089)
+Epochs: 60000
+>>>>>>>>>>>>>>>>>>>>
+Architecture: [784, 50, 25, 10]
+eps: 0.01
+Initial evaluation: (0.09355, 7505607)
+Final evaluation: (0.7943333333333333, 8142726)
+Epochs: 60000
+####################
+Architecture: [784, 80, 30, 10]
+eps: 0.01
+Initial evaluation: (0.1022, 1206753)
+Final evaluation: (0.8256, 1358568)
+Epochs: 60000
+####################
+Architecture: [784, 80, 30, 10]
+eps: 0.01
+Initial evaluation: (0.0958, 1185958)
+Final evaluation: (0.7997, 1357422)
+Epochs: 60000
+####################
+Architecture: [784, 60, 20, 10]
+eps: 0.005444444444444444
+Initial evaluation: (0.0892, 1178388)
+Final evaluation: (0.7913, 1349011)
+Epochs: 60000
+####################
+Architecture: [784, 60, 20, 10]
+eps: 0.006555555555555555
+Initial evaluation: (0.0982, 1240635)
+Final evaluation: (0.8296, 1349945)
+Epochs: 60000
+####################
+Architecture: [784, 60, 20, 10]
+eps: 0.007666666666666665
+Initial evaluation: (0.0982, 1176288)
+Final evaluation: (0.8196, 1351408)
+Epochs: 60000
+####################
+Architecture: [784, 60, 20, 10]
+eps: 0.008777777777777777
+Initial evaluation: (0.0974, 1235355)
+Final evaluation: (0.8225, 1352633)
+Epochs: 60000
+####################
+Architecture: [784, 60, 20, 10]
+eps: 0.009888888888888888
+Initial evaluation: (0.1006, 1206182)
+Final evaluation: (0.8089, 1354721)
+Epochs: 60000
+####################
+Architecture: [784, 60, 20, 10]
+eps: 0.011
+Initial evaluation: (0.0892, 1191727)
+Final evaluation: (0.7908, 1353769)
+Epochs: 60000
